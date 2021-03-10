@@ -1,5 +1,3 @@
-#HW15
-
 from graphics import *
 
 def main():
